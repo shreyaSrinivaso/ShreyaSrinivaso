@@ -2,15 +2,16 @@
 
 <!--
 **shreyaSrinivaso/ShreyaSrinivaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+======================Date: 1/24/2022=====================
+1. Variables : give good name, don't use keywords, don't use special characters ,[a-z ,A-Z, 0-9, _], use camelCase naming convection
 
-Here are some ideas to get you started:
+a=10
+b=10
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+to find the physical address 
+print(id(a))   => 14495094402
+print(id(b))   => 14495094404
+
+==========================================================
+JAN 24 :Task
+
